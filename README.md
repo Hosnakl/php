@@ -22,7 +22,7 @@ After the user modifies the customer information on the CustomerInfo.php page an
 When the user clicks the menu item Complete, the application navigates to Complete.php page
 
 
-All pages of the application should have a top menu with the following menu items:
+All pages of the application have a top menu with the following menu items:
 * Home – Links to Index.php page
 * Terms and Conditions – Links to Disclaimer.php page
 * Customer Information – Links to CustomerInfo.php page
